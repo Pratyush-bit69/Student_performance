@@ -67,3 +67,12 @@ Version Control: Git, GitHub
 ## Conclusion
 
 By the end of this project, we will have a robust understanding of how different factors impact student performance in exams. This analysis can help educators and policymakers develop targeted interventions to improve educational outcomes.
+---
+
+## Maintainer Update (March 2026)
+
+This README was refreshed for consistency across repositories in this GitHub profile.
+
+- Documentation baseline updated
+- Project-specific implementation details remain in code and repository history
+
